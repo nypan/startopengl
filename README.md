@@ -21,6 +21,21 @@ vcpkg install glfw3
 devenv .
 ```
 
+## Mac OS
+
+* install [brew](https://brew.sh/)
+```
+brew install glfw3 
+```
+
+* build 
+```
+mkdir build
+cd build
+cmake ..
+make
+````
+
 
 # Issues 
 
